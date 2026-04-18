@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Mission Viejo, California. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Mission Viejo, California, US",
+  "export_job_id": "07a5ff10-537c-4ce4-9482-553c8a80b11e",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 225827,
+  "location_name": "Mission Viejo",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-mission-viejo-california-us-sample-225827",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/225827/beamstation_225827_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.84,
+  "sample_records": 18,
+  "sample_sha256": "5f06b8e09e2c6fdf30e4b3e8137a4567f98cda2759d97b2c1a1ddc8da13e3f46",
+  "sample_size_bytes": 83490,
+  "total_records": 183,
+  "updated_at": "2026-04-14T20:22:05.254048+00:00"
+}
