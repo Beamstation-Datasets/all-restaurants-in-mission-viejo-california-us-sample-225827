@@ -9,9 +9,9 @@
 | Dataset ID | `225827` |
 | Location | Mission Viejo |
 | Category | Restaurants |
-| Full dataset size | 178 records |
-| Free sample size | 17 records (9.55%) |
-| Last export | 2026-04-21T22:34:11.983133+00:00 |
+| Full dataset size | 172 records |
+| Free sample size | 17 records (9.88%) |
+| Last export | 2026-04-29T01:17:33.040547+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-mission-viejo-california-us-sample-225827/releases/download/sample-latest/beamstation_225827_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
