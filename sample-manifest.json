@@ -1,12 +1,12 @@
 {
-  "export_job_id": "995249bd-8fab-4e97-9330-5761d9f578f6",
+  "export_job_id": "a74e92ea-2c3c-4ef1-addf-e5eebf73f5d5",
   "id_short": 225827,
-  "published_at": "2026-04-29T07:27:29Z",
+  "published_at": "2026-05-08T19:05:19Z",
   "repo_name": "all-restaurants-in-mission-viejo-california-us-sample-225827",
   "sample_asset_name": "beamstation_225827_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/225827/beamstation_225827_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 17,
-  "sample_sha256": "a177e5b63f14bf590e6e023f546ee17993679012a89178b84029f74669c50405",
-  "sample_size_bytes": 77894,
-  "total_records": 172
+  "sample_records": 18,
+  "sample_sha256": "1a4678bc0523b4455ecacd2a65c8f77ab10a471caee51a4e48ff67d46584edec",
+  "sample_size_bytes": 84654,
+  "total_records": 183
 }
